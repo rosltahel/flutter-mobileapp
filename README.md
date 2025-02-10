@@ -1,7 +1,9 @@
 # 📸 LensScout – Discover & Share Unique Photo Locations  
 
 ## Introduction  
-![LensScout Logo](assets/images/logo.png)  
+![LensScout Logo](assets/images/logo.png) 
+![image](https://github.com/user-attachments/assets/8e197b24-4e3a-464a-bcec-31e8d34e27ef)
+
 **LensScout** is a mobile app designed for photographers to discover and book visually appealing locations for photoshoots. It connects photographers with property owners, enabling them to find ideal backdrops while allowing owners to earn by renting out their locations.  
 
 ## Features  
