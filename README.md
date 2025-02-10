@@ -12,17 +12,24 @@
 ## Features  
 
 ### 🔑 User & Photographer Access  
-![Login Page](assets/images/login.png)  
+![image](https://github.com/user-attachments/assets/371fb131-c80a-44d7-b215-be5ec911897a)
+ 
 - Signup/Login for both users and photographers  
 - Password recovery option  
 - Editable profiles  
 
 ### 🏡 Location Discovery & Booking  
-![Booking Screen](assets/images/booking.png)  
+![image](https://github.com/user-attachments/assets/b593055f-c45a-44d6-b82a-7779b8794e5a)
+  
 - Browse and book photography locations  
 - Session booking and secure payments  
 - Notifications for upcoming sessions  
-- Favorite photographers & locations  
+- Favorite photographers & locations
+
+
+![image](https://github.com/user-attachments/assets/240707d8-4d12-4559-90de-5fd1b8d47304)
+![image](https://github.com/user-attachments/assets/db5961ad-f289-461b-94c7-8f34fe7bb7c5)
+
 
 ## 🛠️ Tech Stack  
 - **Frontend:** Flutter  
